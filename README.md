@@ -50,7 +50,7 @@ Kampçılık · Fotoğrafçılık · Voleybol · Planlama · Yüzme · Futbol ·
 
 ## 📫 İletişim
 
-- 📧 abd21210.al@gmail.com  
+- 📧 abdullatifserif884@gmail.com  
 - 🌍 [LinkedIn Profilim](https://www.linkedin.com/in/abdullatif-sharif-863888238/)  
 - 🛠️ GitHub: [github.com/AbdullatifSharif](https://github.com/AbdullatifSharif)
 
