@@ -51,11 +51,11 @@ Kampçılık · Fotoğrafçılık · Voleybol · Planlama · Yüzme · Futbol ·
 ## 📫 İletişim
 
 - 📧 abd21210.al@gmail.com  
-- 🌍 [LinkedIn](https://www.linkedin.com/in/abdullatif-sharif-863888238/)  
-- 🛠️ GitHub: [github.com/abdullatif-sharif](https://github.com/abdullatif-sharif)
+- 🌍 [LinkedIn Profilim](https://www.linkedin.com/in/abdullatif-sharif-863888238/)  
+- 🛠️ GitHub: [github.com/AbdullatifSharif](https://github.com/AbdullatifSharif)
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdullatif-sharif&style=flat&color=orange&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=AbdullatifSharif&style=flat&color=orange&label=PROFILE+VIEWS"/>
 </div>
